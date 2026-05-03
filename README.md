@@ -48,7 +48,7 @@
 ## 🎵 Spotify
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=zhqrgtwyx0xz99hd4q97oadoy&count=3&unique=true" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=zhqrgtwyx0xz99hd4q97oadoy&count=3&unique=true&show_link=true" alt="Spotify recently played"  />
 </div>
 
 ###
