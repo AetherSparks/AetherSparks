@@ -231,6 +231,7 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AetherSparks/AetherSparks/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ###
 
 <br clear="both">
