@@ -6,28 +6,32 @@
 
 ## 👨‍💻 About Me
 
-<div align="left">
-  <p>
-    Hi! I'm <strong>Abhiraj Ghose</strong>, a passionate 3rd year B.Tech CSE student 
-    specializing in AI/ML at Bennett University (CGPA: 9.55). I'm an inquisitive computer 
-    science specialist with a strong foundation in mathematics, statistics, programming logic 
-    and cross-platform coding.
-  </p>
-  <p>
-    💼 <strong>Current Role:</strong> Software Engineer at Livingston Adams (Remote)<br>
-    🎯 <strong>Specialization:</strong> AI/ML, Deep Learning, Large Language Models<br>
-    🏆 <strong>Achievements:</strong> 5 Star Gold Badge in Python, Java & C++ (HackerRank)<br>
-    📚 <strong>Leadership:</strong> Head of Technical Department at GeeksForGeeks-BU
-  </p>
-  <p>
-    I'm adept at collecting, analyzing, and interpreting large datasets, self-motivated 
-    team player delivering innovative solutions, and passionate about building cutting-edge 
-    AI-powered applications.
-  </p>
-</div>
-<div align="right">
-  <img src="assets/AbhirajGhose_TechHead.jpg" alt="Abhiraj Ghose" width="200" />
-</div>
+<table>
+  <tr>
+    <td width="70%">
+      <p>
+        Hi! I'm <strong>Abhiraj Ghose</strong>, a passionate 3rd year B.Tech CSE student 
+        specializing in AI/ML at Bennett University (CGPA: 9.55). I'm an inquisitive computer 
+        science specialist with a strong foundation in mathematics, statistics, programming logic 
+        and cross-platform coding.
+      </p>
+      <p>
+        💼 <strong>Current Role:</strong> Software Engineer at Livingston Adams (Remote)<br>
+        🎯 <strong>Specialization:</strong> AI/ML, Deep Learning, Large Language Models<br>
+        🏆 <strong>Achievements:</strong> 5 Star Gold Badge in Python, Java & C++ (HackerRank)<br>
+        📚 <strong>Leadership:</strong> Head of Technical Department at GeeksForGeeks-BU
+      </p>
+      <p>
+        I'm adept at collecting, analyzing, and interpreting large datasets, self-motivated 
+        team player delivering innovative solutions, and passionate about building cutting-edge 
+        AI-powered applications.
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="assets/AbhirajGhose_TechHead.jpg" alt="Abhiraj Ghose" width="200" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -186,6 +190,12 @@ AI-powered mood-classification and music-driven therapy system
 <br clear="both">
 
 ## 📊 GitHub Stats
+
+###
+
+<br clear="both">
+
+# ?? GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AetherSparks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
