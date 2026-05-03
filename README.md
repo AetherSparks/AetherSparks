@@ -236,12 +236,9 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats-sabesansathananth.vercel.app/api?username=AetherSparks&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=AetherSparks&theme=radical&hide_border=true"/>
-</div><br/>
-![](https://github-readme-stats-sabesansathananth.vercel.app/api/top-langs/?username=AetherSparks&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AetherSparks&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AetherSparks&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AetherSparks&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
