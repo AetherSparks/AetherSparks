@@ -37,18 +37,19 @@
 
 ## 🌐 Socials
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiraj-ghose)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghoseabhiraj0607@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Aether_Sparks/)
 [![Codolio](https://img.shields.io/badge/Codolio-4A90E2?logo=web&logoColor=white)](https://codolio.com/profile/AetherSparks)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white)](https://your-portfolio-link.com) 🚧 Under Construction
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/zhqrgtwyx0xz99hd4q97oadoy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zhqrgtwyx0xz99hd4q97oadoy&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -175,10 +176,12 @@ AI-powered mood-classification and music-driven therapy system
 
 ###
 
+<!-- Snake Animation - Will appear after GitHub Actions run -->
 <img src="https://raw.githubusercontent.com/AetherSparks/AetherSparks/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<!-- Pacman Animation - Will appear after GitHub Actions run -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AetherSparks/AetherSparks/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AetherSparks/AetherSparks/output/pacman-contribution-graph.svg">
@@ -213,10 +216,6 @@ AI-powered mood-classification and music-driven therapy system
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=AetherSparks&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
