@@ -235,21 +235,24 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 
 <br clear="both">
 
+
+
 ## 📊 GitHub Stats
 
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=AetherSparks&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-</div>
-
-<div align="center">
-![](https://streak-stats.demolab.com/?user=AetherSparks&theme=radical&hide_border=true)
-</div>
-
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=AetherSparks&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AetherSparks&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AetherSparks&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 ###
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AetherSparks&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallav110&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AetherSparks&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa"/>
+</div>
 
 ## 🏆 GitHub Trophies
 
