@@ -77,20 +77,62 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 
 ## 🚀 Featured Projects
 
-### 🎵 YMIR: Yielding Melodies for Internal Restoration
+<table>
+<tr>
+<td width="50%" valign="top">
 
-AI-powered mood-classification and music-driven therapy system
+### � Voice Emotion Recognition System
 
-- Spotify API integration with 3200+ Hindi songs dataset
-- Binaural Beats and Isochronic Tones generation for Brainwave Entrainment
-- MBTI Personality Detection Chatting Application (97% Accuracy)
-- Visual and Textual input mood detection with context-appropriate music
+> **89% Accuracy** — Real-time production API
+
+- Custom **LSTM** architecture on MEL spectrograms
+- Built with **PyTorch · Librosa · FastAPI · Docker**
+- Deployed for **Healthcare & Customer Service**
+- Status: `████████░░ 80%` — Production API in progress
+
+[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=flat-square&logo=github)](https://github.com/AetherSparks)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 Music Therapy AI — Y.M.I.R
+
+> **65% Stress Reduction** — Emotion-to-music mapping
+
+- Maps detected emotions to musical features
+- Built with **Flutter · TensorFlow Lite · Firebase · Spotify API**
+- Target: Mental health support via personalized playlists
+- Status: `██████░░░░ 60%` — Beta launch Q3 2025
+
+[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=flat-square&logo=github)](https://github.com/AetherSparks)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 Multilingual Emotion NLP
+
+> Cross-lingual emotion detection research
+
+- Focus: Emotion recognition across language families
+- Collaboration with academic institutions
+- Target: Top-tier research journal publication
+- Status: `Ongoing` — Active research
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔧 Sugarlabs (Open Source Contributions)
 
 - Multiple merged contributions to Music Blocks project
 - Enhanced Sugar Labs website functionality and structure
 - Issue identification and resolution in open-source codebase
+- Status: `Active` — Ongoing contributions
+
+</td>
+</tr>
+</table>
 
 ###
 
