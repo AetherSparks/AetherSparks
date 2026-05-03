@@ -253,7 +253,7 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AetherSparks&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AetherSparks&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ## 🏆 GitHub Trophies
