@@ -45,6 +45,8 @@
 
 ###
 
+## 🎵 Spotify
+
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=zhqrgtwyx0xz99hd4q97oadoy&count=3&unique=true" alt="Spotify recently played"  />
 </div>
@@ -174,10 +176,10 @@ AI-powered mood-classification and music-driven therapy system
 
 ###
 
+## 🐍 GitHub Activity
+
 <!-- Snake Animation - Will appear after GitHub Actions run -->
 <img src="https://raw.githubusercontent.com/AetherSparks/AetherSparks/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!-- Pacman Animation - Will appear after GitHub Actions run -->
 <picture>
@@ -192,12 +194,6 @@ AI-powered mood-classification and music-driven therapy system
 
 ## 📊 GitHub Stats
 
-###
-
-<br clear="both">
-
-# ?? GitHub Stats:
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AetherSparks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AetherSparks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -206,6 +202,8 @@ AI-powered mood-classification and music-driven therapy system
 ![](https://github-readme-stats.vercel.app/api?username=AetherSparks&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AetherSparks&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AetherSparks&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+###
 
 ## 🏆 GitHub Trophies
 
