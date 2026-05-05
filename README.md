@@ -2,7 +2,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-
 ###
 
 ## 👨‍💻 About Me
@@ -231,17 +230,11 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AetherSparks/AetherSparks/output/pacman-contribution-graph.svg">
 </picture>
 
-
 ###
 
 <br clear="both">
 
-
-
 ## 📊 GitHub Stats
-
-
-
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=AetherSparks&theme=radical&hide_border=true"/>
@@ -258,7 +251,45 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 
 ![](https://github-profile-trophy.vercel.app/?username=AetherSparks&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 💭 Random Dev Quote
+### � Professional Journey
+
+```mermaid
+timeline
+    title Abhiraj Ghose — AI & Engineering Evolution
+
+    section Education (2023-Present)
+        Bennett University - B.Tech CSE (AI/ML)
+            : CGPA: 9.55
+            : 3rd Year Student
+        : Foundation
+            : Mathematics & Programming Logic
+
+    section Professional Experience (2023-Present)
+        Software Engineer at Livingston Adams
+            : Remote role (01/2025 – 11/2025)
+                : Unreleased NextJS Multizone Deployment Architecture
+                : AI-powered Construction Planning Website
+                : Demonstrated on Google Summit 2025
+                : End-to-end Design & Build modules
+            : NLP Research Intern (07/2025)
+                : Multi-model BERT fusion research
+                : Cross-lingual emotion analysis
+                : 47 fusion configurations implemented
+        : FullStack Developer Intern (06/2024 – 08/2024)
+            : Project-Hub and Community Website
+                : Project Upload, Application Submission, Chatting
+                : HTML, CSS, JavaScript, Python Django
+            : Job-Hunting Website (06/2024 – 08/2024)
+                : HTML, CSS, JavaScript, Python Django
+
+    section Academic Foundation (09/2023 – Present)
+        Bachelor of Technology (Computer Science Engineering)
+            : CGPA: 9.55
+            : XII (Senior Secondary) from CBSE Board
+            : Percentage: 91.5%
+```
+
+### �💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
