@@ -257,12 +257,17 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 timeline
     title Abhiraj Ghose — AI & Engineering Evolution
 
-    section Education (2023-Present)
-        Bennett University - B.Tech CSE (AI/ML)
-            : CGPA: 9.55
+    section Education (2021-Present)
+        Class X - CBSE Board (2021)
+            : Bal Bharati Public School, Noida
+            : Percentage: 97%
+        Class XII - CBSE Board (2023)
+            : Bal Bharati Public School, Noida
+            : Percentage: 91.5%
+        Bennett University (2023-Present)
+            : B.Tech Computer Science Engineering (AI/ML Specialization)
+            : Current CGPA: 9.55
             : 3rd Year Student
-        : Foundation
-            : Mathematics & Programming Logic
 
     section Professional Experience (2023-Present)
         Software Engineer at Livingston Adams
@@ -275,21 +280,15 @@ timeline
                 : Multi-model BERT fusion research
                 : Cross-lingual emotion analysis
                 : 47 fusion configurations implemented
-        : FullStack Developer Intern (06/2024 – 08/2024)
+        FullStack Developer Intern (06/2024 – 08/2024)
             : Project-Hub and Community Website
                 : Project Upload, Application Submission, Chatting
                 : HTML, CSS, JavaScript, Python Django
             : Job-Hunting Website (06/2024 – 08/2024)
                 : HTML, CSS, JavaScript, Python Django
-
-    section Academic Foundation (09/2023 – Present)
-        Bachelor of Technology (Computer Science Engineering)
-            : CGPA: 9.55
-            : XII (Senior Secondary) from CBSE Board
-            : Percentage: 91.5%
 ```
 
-### �💭 Random Dev Quote
+### �� Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
