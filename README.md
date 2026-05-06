@@ -271,21 +271,42 @@ timeline
 
     section Professional Experience (2023-Present)
         Software Engineer at Livingston Adams
-            : Remote role (01/2025 – 11/2025)
+            : Remote role (01/2025 – 11/2025) | New Jersey, USA
                 : Unreleased NextJS Multizone Deployment Architecture
                 : AI-powered Construction Planning Website
                 : Demonstrated on Google Summit 2025
                 : End-to-end Design & Build modules
-            : NLP Research Intern (07/2025)
+                    : Dynamic property pages (Selling, Buying, Building, Customizing)
+                    : Housing Project Management Workflows
+                    : Blueprint Annotations, RFIs, Submittals, Tasks with Gantt Charts
+                    : User dashboard with fullstack integration
+                    : MLS API integration, analytics, responsive components
+                : Resolved 36 critical bugs
+                    : MLS API integration fixes
+                    : MapBox functionality improvements
+                    : Project Management Systems optimization
+                    : Responsive UI components implementation
+                    : House Model Data Structures development
+        NLP Research Intern at Delhi Technological University (DTU)
+            : Remote role (07/2025) | Delhi
                 : Multi-model BERT fusion research
                 : Cross-lingual emotion analysis
-                : 47 fusion configurations implemented
-        FullStack Developer Intern (06/2024 – 08/2024)
-            : Project-Hub and Community Website
-                : Project Upload, Application Submission, Chatting
-                : HTML, CSS, JavaScript, Python Django
-            : Job-Hunting Website (06/2024 – 08/2024)
-                : HTML, CSS, JavaScript, Python Django
+                : BioBERT & BlueBERT vs MultiBERT comparison
+                : Bio-word Embeddings integration
+                : Implemented 47 fusion configurations
+                    : Normalization, scoring, ML-based fusion methods
+                    : Advanced Score-Level Fusion for robust emotion classification
+                    : Hindi poetry datasets emotion classification
+        FullStack Developer Intern at ChampSpace
+            : Remote role (06/2024 – 08/2024) | Noida, Uttar Pradesh
+                : Project-Hub and Community Discussion Website
+                    : Project Upload functionality
+                    : Application Submission system
+                    : Chatting and Notifications features
+                    : Team collaboration using HTML, CSS, JavaScript, Python Django
+                : Job-Hunting Website
+                    : Complete job portal development
+                    : HTML, CSS, JavaScript, Python Django stack
 ```
 
 ### �� Random Dev Quote
