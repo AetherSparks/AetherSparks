@@ -264,6 +264,7 @@ timeline
         Class XII - CBSE Board (2023)
             : Bal Bharati Public School, Noida
             : Percentage: 91.5%
+            : Head Boy of BBPS Noida (2022-2023)
         Bennett University (2023-Present)
             : B.Tech Computer Science Engineering (AI/ML Specialization)
             : Current CGPA: 9.55
