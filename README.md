@@ -271,6 +271,29 @@ timeline
             : 3rd Year Student
 
     section Professional Experience (2023-Present)
+
+        FullStack Developer Intern at ChampSpace
+            : Remote role (06/2024 – 08/2024) | Noida, Uttar Pradesh
+                : Project-Hub and Community Discussion Website
+                    : Project Upload functionality
+                    : Application Submission system
+                    : Chatting and Notifications features
+                    : Team collaboration using HTML, CSS, JavaScript, Python Django
+                : Job-Hunting Website
+                    : Complete job portal development
+                    : HTML, CSS, JavaScript, Python Django stack
+
+        NLP Research Intern at Delhi Technological University (DTU)
+            : Remote role (07/2025) | Delhi
+                : Multi-model BERT fusion research
+                : Cross-lingual emotion analysis
+                : BioBERT & BlueBERT vs MultiBERT comparison
+                : Bio-word Embeddings integration
+                : Implemented 47 fusion configurations
+                    : Normalization, scoring, ML-based fusion methods
+                    : Advanced Score-Level Fusion for robust emotion classification
+                    : Hindi poetry datasets emotion classification
+
         Software Engineer at Livingston Adams
             : Remote role (01/2025 – 11/2025) | New Jersey, USA
                 : Unreleased NextJS Multizone Deployment Architecture
@@ -288,26 +311,7 @@ timeline
                     : Project Management Systems optimization
                     : Responsive UI components implementation
                     : House Model Data Structures development
-        NLP Research Intern at Delhi Technological University (DTU)
-            : Remote role (07/2025) | Delhi
-                : Multi-model BERT fusion research
-                : Cross-lingual emotion analysis
-                : BioBERT & BlueBERT vs MultiBERT comparison
-                : Bio-word Embeddings integration
-                : Implemented 47 fusion configurations
-                    : Normalization, scoring, ML-based fusion methods
-                    : Advanced Score-Level Fusion for robust emotion classification
-                    : Hindi poetry datasets emotion classification
-        FullStack Developer Intern at ChampSpace
-            : Remote role (06/2024 – 08/2024) | Noida, Uttar Pradesh
-                : Project-Hub and Community Discussion Website
-                    : Project Upload functionality
-                    : Application Submission system
-                    : Chatting and Notifications features
-                    : Team collaboration using HTML, CSS, JavaScript, Python Django
-                : Job-Hunting Website
-                    : Complete job portal development
-                    : HTML, CSS, JavaScript, Python Django stack
+
 ```
 
 ### �� Random Dev Quote
