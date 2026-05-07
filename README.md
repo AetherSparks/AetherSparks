@@ -268,9 +268,9 @@ timeline
         Bennett University (2023-Present)
             : B.Tech Computer Science Engineering (AI/ML Specialization)
             : Current CGPA: 9.55
-            : 3rd Year Student
+            : Head of Technical Department at GeeksForGeeks-Bennett University Chapter
 
-    section Professional Experience (2023-Present)
+    section Professional Experience (2024-Present)
 
         FullStack Developer Intern at ChampSpace
             : Remote role (06/2024 – 08/2024) | Noida, Uttar Pradesh
