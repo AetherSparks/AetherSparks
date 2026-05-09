@@ -314,15 +314,11 @@ timeline
 
 ```
 
-### �� Random Dev Quote
+### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
 [![](https://visitcount.itsvg.in/api?id=AetherSparks&icon=0&color=2)](https://visitcount.itsvg.in)
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
