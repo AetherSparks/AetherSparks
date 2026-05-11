@@ -251,7 +251,7 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 
 ![](https://github-profile-trophy.vercel.app/?username=AetherSparks&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### � Professional Journey
+## 💼 Professional Journey
 
 ```mermaid
 timeline
@@ -314,7 +314,7 @@ timeline
 
 ```
 
-### 💭 Random Dev Quote
+## 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
