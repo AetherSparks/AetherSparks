@@ -4,7 +4,9 @@
 
 ###
 
+<div align="center">
 ## 👨‍💻 About Me
+</div>
 
 <table>
   <tr>
@@ -35,7 +37,9 @@
 
 ###
 
+<div align="center">
 ## 🌐 Socials
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiraj-ghose)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghoseabhiraj0607@gmail.com)
@@ -45,7 +49,9 @@
 
 ###
 
+<div align="center">
 ## 🎵 Spotify
+</div>
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=zhqrgtwyx0xz99hd4q97oadoy&count=3&unique=true&width=600&interactive=true" alt="Spotify recently played"  />
@@ -53,7 +59,9 @@
 
 ###
 
+<div align="center">
 ## 🛠️ Technical Skills
+</div>
 
 ### Programming Languages
 
@@ -75,7 +83,9 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 
 ###
 
+<div align="center">
 ## 🚀 Featured Projects
+</div>
 
 <table>
 <tr>
@@ -136,7 +146,9 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 
 ###
 
+<div align="center">
 ## 💻 Tech Stack
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo"  />
@@ -218,7 +230,9 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 
 ###
 
+<div align="center">
 ## 🐍 GitHub Activity
+</div>
 
 <!-- Snake Animation - Will appear after GitHub Actions run -->
 <img src="https://raw.githubusercontent.com/AetherSparks/AetherSparks/output/snake.svg" alt="Snake animation" />
@@ -234,7 +248,9 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 
 <br clear="both">
 
+<div align="center">
 ## 📊 GitHub Stats
+</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=AetherSparks&theme=radical&hide_border=true"/>
@@ -247,11 +263,15 @@ Git, AWS, JIRA, Agile Methodologies, OpenCV, Django, Docker, Kubernetes
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AetherSparks&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
+<div align="center">
 ## 🏆 GitHub Trophies
+</div>
 
 ![](https://github-profile-trophy.vercel.app/?username=AetherSparks&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+<div align="center">
 ## 💼 Professional Journey
+</div>
 
 ```mermaid
 timeline
@@ -314,7 +334,9 @@ timeline
 
 ```
 
+<div align="center">
 ## 💭 Random Dev Quote
+</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
