@@ -16,7 +16,7 @@
         and cross-platform coding.
       </p>
       <p>
-        💼 <strong>Current Role:</strong> Software Engineer at Livingston Adams (Remote)<br>
+        💼 <strong>Current Role:</strong> Python Developer Intern at MediaBox Productions<br>
         🎯 <strong>Specialization:</strong> AI/ML, Deep Learning, Large Language Models<br>
         🏆 <strong>Achievements:</strong> 5 Star Gold Badge in Python, Java & C++ (HackerRank)<br>
         📚 <strong>Leadership:</strong> Head of Technical Department at GeeksForGeeks-BU
@@ -306,23 +306,27 @@ timeline
                     : Advanced Score-Level Fusion for robust emotion classification
                     : Hindi poetry datasets emotion classification
 
-        Software Engineer at Livingston Adams
-            : Remote role (01/2025 – 11/2025) | New Jersey, USA
-                : Unreleased NextJS Multizone Deployment Architecture
-                : AI-powered Construction Planning Website
-                : Demonstrated on Google Summit 2025
-                : End-to-end Design & Build modules
-                    : Dynamic property pages (Selling, Buying, Building, Customizing)
-                    : Housing Project Management Workflows
-                    : Blueprint Annotations, RFIs, Submittals, Tasks with Gantt Charts
-                    : User dashboard with fullstack integration
-                    : MLS API integration, analytics, responsive components
-                : Resolved 36 critical bugs
-                    : MLS API integration fixes
-                    : MapBox functionality improvements
-                    : Project Management Systems optimization
-                    : Responsive UI components implementation
-                    : House Model Data Structures development
+        Python Developer Intern at MediaBox Productions
+            : 01/2026 – 07/2026 | Noida, Uttar Pradesh
+                : Engineered asynchronous REST APIs for EventRentals4U platform
+                    : Python, FastAPI, Docker, Firebase with authentication
+                    : Firestore database services and cloud-based media storage
+                    : Scalable backend services
+                : Developed hybrid vendor recommendation engine
+                    : Item-item collaborative filtering and weighted ranking algorithms
+                    : Real-time vendor performance scoring and personalized recommendations
+                : Built asynchronous notification microservice
+                    : Twilio WhatsApp/SMS APIs, APScheduler, Firestore integration
+                    : Rate limiting, delivery tracking, scheduling, user opt-out handling
+                : Next.js multi-zone deployment architecture
+                    : AI-powered construction planning platform
+                    : Modular application deployment and scalable React/Next.js architecture
+                : End-to-end Design and Build modules with React/Next.js
+                    : Dynamic property experiences and project-management workflows
+                    : Blueprint annotations, RFIs, submittals, task management, Gantt-based scheduling
+                : Full-stack integrations and user dashboards
+                    : Analytics dashboards and React/Next.js components
+                    : Resolved 36 critical production issues across MLS, Mapbox, project-management systems
 
 ```
 
